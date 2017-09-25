@@ -1,4 +1,4 @@
-module RTB
+module OpenRTB
   class Error < ::Exception; end
 
   #Bid Errors
